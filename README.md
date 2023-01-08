@@ -47,10 +47,8 @@
 
 ###
 
-<div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="500" height="500" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/76rh6c"></iframe></div><p><a href="https://imgflip.com/gif/76rh6c">via Imgflip</a></p></div>
-
 <div align="right">
-  <img height="200" src="https://imgflip.com/gif/76rh6c"  />
+  <img height="200" src="https://imgflip.com/embed/76rh6c"  />
 </div>
 
 ###
