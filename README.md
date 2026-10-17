@@ -54,7 +54,8 @@
 **Infra & Ferramentas**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
+  <!-- Ícone da AWS corrigido abaixo -->
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
@@ -75,5 +76,9 @@
 ### 🐍 Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/T3lo5/T3lo5/output/snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T3lo5/T3lo5/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T3lo5/T3lo5/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/T3lo5/T3lo5/output/snake.svg" />
+  </picture>
 </div>
